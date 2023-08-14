@@ -1,0 +1,83 @@
+# ESTRUCTURA BÁSICA:
+# Línea 1: pregunta
+# Línea 2: Opciones separadas por "," en donde la primera es la correcta
+# Línea 3: Dificultad: EASY, MEDIUM_EASY, MEDIUM, HARD, VERY_HARD
+# Línea 4: Cita o referencia bíblica. Si no hay dejar la línea vacía
+# Línea 5: Separador de pregunta ---
+#
+¿Quién le rompió la cola al pobre Zazu de Juanpe?
+Javi, Sandra, Juanca, Fer
+EASY
+
+---
+¿Cuál es tu esperanza de vida según ella?
+56, 57, 55, 54
+EASY
+
+---
+¿Qué dos estimados protagonistas intentaron freir sanjacobos en una plancha?
+Juanpe y Fer, Juanpe y Juanca, Fer y Juanca, Fer y Melli
+EASY
+
+---
+¿Quién se puso el chaleco del kayak del revés tras afirmar que tenía experiencia a un monitor?
+ZrLobo, La shiba, El zorro, El pato
+EASY
+
+---
+Completa la frase “... como la marea”
+Tu puse, Tu subes, Tu bajas, Te agitas
+MEDIUM_EASY
+
+---
+Completa la frase “es guapísima...”
+de verdad muy guapa, diuu, es un diez, es como Juanpe en chica
+MEDIUM_EASY
+
+---
+¿Con qué canción empezó El Kanka el primer concierto al que asistió todo el grupo junto?
+Autorretrato, No se dice suerte, Baladí, Para vivir
+MEDIUM_EASY
+
+---
+¿Quién se lavó los dientes con tu jabón pensando que era pasta de dientes?
+Melli, Nati, Marta, MC
+MEDIUM
+
+---
+¿Quién se convirtió en el archienemigo de Fer porque se burló de su palestina?
+Luis, Emilio, Nono, Modelo
+MEDIUM
+
+---
+¿Qué pokemons no están entre los favoritos de los componentes del grupo?
+Golem y Machamp, Swampert y Torterra, Arcanine y Dragonite, Pikachu y Totodile
+MEDIUM
+
+---
+¿En qué año comenzaste con el Cádiz CF Virgili?
+Agosto 2017, Agosto 2018, Septiembre 2018, Septiembre 2019
+MEDIUM
+
+---
+“¡Oh, capitán!¡Mi capitán!” es original de la obra...
+Hojas de hierba, El club de los poetas muertos, Marina, Vistas Democráticas
+HARD
+
+---
+¿Cómo acaba el libro “La niebla”?
+Vagan en un automóvil escuchando la radio, El protagonista acaba con la vida del resto, Todos mueren, El ejército disipa la niebla
+HARD
+
+---
+¿Cuántas tortillas me has enviado (gráficamente) en lo que va de año?
+5, 4, 3, 2
+HARD
+
+---
+¿Qué partido vimos en nuestro Trofeo Carranza?
+Cádiz - Las Palmas, Betis - Las Palmas, Cadiz - Betis, Cadiz - Atletico
+VERY_HARD
+
+---
+

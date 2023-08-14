@@ -1,0 +1,38 @@
+<div class="container">
+  <div class="row vh-100 align-items-center">
+    <div class="col-12 d-flex flex-column text-center">
+      <div class="display-1 text-uppercase text-primary">
+        Biblionaire
+      </div>
+
+      <p class="lead mb-4">
+        El juego que pone a prueba todos tus conocimientos bíblicos
+      </p>
+
+      <div class="col-sm-12 col-md-6 offset-md-3">
+        <button routerLink="/jugar"
+                class="btn btn-secondary btn-lg btn-block"
+                *ngIf="basicTotal > 0">
+          <fa-icon [icon]="faPlay"
+                   [fixedWidth]="true"></fa-icon> Empezar a jugar
+        </button>
+
+        <button routerLink="/mente-rapida"
+                class="btn btn-lg btn-outline-light btn-block"
+                *ngIf="quickMindTotal > 0">
+          <fa-icon [icon]="faClock"
+                   [fixedWidth]="true"></fa-icon> Mente-rápida
+        </button>
+
+        <small class="d-block mt-3">
+          Hecho con <fa-icon [icon]="faHeart"
+                   [fixedWidth]="true"
+                   class="text-danger"></fa-icon> por Christiam Mena (v1.0.5) <br />
+          <a href="https://github.com/xtiam57/biblionaire"
+             target="_blank">@xtiam57</a>
+        </small>
+      </div>
+
+    </div>
+  </div>
+</div>
